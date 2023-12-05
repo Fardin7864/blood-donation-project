@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@900&family=Roboto:wght@300;400;500;700;900&display=swap');@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+ul li a{
+  /* background: transparent !important; */
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  font-weight: 600;
+}
+
+ul li a:focus{
+  background: transparent !important;
+  color: #00a1ab !important;
+  text-decoration: underline !important;
+  font-size: 18px !important;
+  font-weight: 400 !important;
+}
+ul li a:hover{
+  color: #00a1ab !important;
+}
+
+ul li a:active{
+  background: transparent !important;
+  color: #00a1ab !important;
+  text-decoration: underline !important;
+  font-size: 18px !important;
+  font-weight: 400 !important;
+}
+
+.active{
+  background: none !important;
+  color: #00a1ab !important;
+  text-decoration: underline;
+}
+
+.text-p{
+  color: #091c58;
+}
+
+.bg-p{
+  background-color: #00a1ab;
+  color: white;
+}
