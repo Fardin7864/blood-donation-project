@@ -99,27 +99,3 @@ The application includes features for user (donor) registration, blood donation 
 
 - Use [this GitHub repository](https://github.com/nuhil/bangladesh-geocode) to find all districts and upazilas data.
 
-## Optional Tasks
-
-Choose any two from the following:
-
-1. Add animation to the website using framer motion or aos.
-2. Implement the ability to download search results as a PDF from the search page.
-3. Implement daily, weekly, monthly donation requests in a chart on the admin dashboard home page.
-4. Share blog posts to social media from the blog page.
-
-## Guidelines 📌
-
-- Spend 15-20 minutes deciding on the core features of the blood donation application.
-- Prioritize user experience, data security, and seamless payment integration.
-- Use ChatGPT for generating sample data initially and adapt as needed.
-- Regularly commit and update the readme as you progress through the development stages.
-
-## What to Submit
-
-1. **Assignment Category:** assignment12_category_0000
-2. **Admin email:**
-3. **Admin password:**
-4. **Front-end Live Site Link:**
-5. **Client Side GitHub Repository Link:**
-6. **Server Side GitHub Repository Link:**
